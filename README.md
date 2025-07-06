@@ -31,3 +31,10 @@ Modern Aesthetic: Clean typography, energetic color palette, and consistent visu
 🎯 Purpose:
 The goal of this project is to create a high-performance fitness website that not only informs but motivates users. Whether it's to market personal training services, promote workout programs, or serve as a landing page for a fitness app, this website serves as a solid foundation for any health and wellness brand.
 
+
+
+![image alt](https://github.com/nimesh2315/Fitness-Web/blob/master/Screenshot%202025-07-07%20020833.png?raw=true)
+![image alt]
+![image alt]
+![image alt]
+![image alt]
