@@ -34,7 +34,7 @@ The goal of this project is to create a high-performance fitness website that no
 
 
 ![image alt](https://github.com/nimesh2315/Fitness-Web/blob/master/Screenshot%202025-07-07%20020833.png?raw=true)
-![image alt]
-![image alt]
-![image alt]
-![image alt]
+![image alt](https://github.com/nimesh2315/Fitness-Web/blob/master/Screenshot%202025-07-07%20020901.png?raw=true)
+![image alt]()
+![image alt]()
+![image alt]()
