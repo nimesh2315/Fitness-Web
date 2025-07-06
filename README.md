@@ -1,4 +1,5 @@
 🌟 Fitness Website – 
+
 This Fitness Website is a modern, responsive, and animated web project designed to promote health, fitness, and active living. It was built using HTML, CSS, JavaScript, and powered by GSAP and ScrollTrigger to deliver a visually captivating and interactive user experience.
 
 The site features a clean and structured layout, optimized for all screen sizes — from mobile phones to large desktop monitors. Its UI/UX design focuses on clarity, accessibility, and engagement, ensuring that users can navigate easily and find essential information quickly.
